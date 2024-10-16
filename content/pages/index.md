@@ -193,4 +193,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+socialImage: /images/cover.png
 ---
