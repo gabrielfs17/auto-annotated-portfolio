@@ -51,17 +51,10 @@ sections:
       elementId: sign-up-form
       fields:
         - name: firstName
-          label: First Name
+          label: Nome
           hideLabel: true
           placeholder: First Name
           isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
           width: 1/2
           type: TextFormControl
         - name: email
@@ -71,15 +64,8 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
         - name: updatesConsent
-          label: Sign me up to recieve updates
+          label: 'Receber alertas de novidades do mundo tecnológico,'
           isRequired: false
           width: full
           type: CheckboxFormControl
