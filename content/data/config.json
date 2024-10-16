@@ -18,7 +18,8 @@
             {
                 "type": "Link",
                 "label": "Serviços",
-                "url": "/projects"
+                "url": "/projects",
+                "showIcon": true
             },
             {
                 "type": "Link",
