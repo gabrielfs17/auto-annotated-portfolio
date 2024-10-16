@@ -44,7 +44,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: send
+        icon: mail
         iconPosition: right
         style: primary
         elementId: ''
