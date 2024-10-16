@@ -1,25 +1,17 @@
 ---
 type: PageLayout
-title: Home
-colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
+title: Inicio
+colors: colors-b
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Sou Gabriel Freitas, Criador de conteúdo Digital e Desenvolvedor de
+      Sistemas
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Sua empresa precisa ter uma boa possíção na internet e ser vista em
+      qualquer rede.
     styles:
       self:
         height: auto
@@ -84,49 +76,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
+    subtitle: Descubra quais servos temos disponíveis
+    title: Serviços
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -193,4 +144,47 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: FeaturedPostsSection
+    elementId: ''
+    colors: colors-f
+    variant: variant-d
+    subtitle: Featured Posts
+    showFeaturedImage: false
+    actions:
+      - type: Link
+        label: See all posts
+        url: /blog
+    posts:
+      - content/pages/blog/post-six.md
+      - content/pages/blog/post-four.md
+      - content/pages/blog/post-three.md
+    showDate: true
+    showExcerpt: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-28
+          - pb-48
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-end
+socialImage: /images/cover.png
 ---
