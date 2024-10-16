@@ -65,7 +65,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: updatesConsent
-          label: Sign me up to recieve updates
+          label: 'Receber alertas de novidades do mundo tecnológico,'
           isRequired: false
           width: full
           type: CheckboxFormControl
