@@ -46,7 +46,7 @@ sections:
         showIcon: false
         icon: ''
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
