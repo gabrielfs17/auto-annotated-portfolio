@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-e
     backgroundSize: full
     title: >-
       Sou Gabriel Freitas, Criador de conteúdo Digital e Desenvolvedor de
