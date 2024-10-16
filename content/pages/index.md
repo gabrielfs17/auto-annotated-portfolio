@@ -83,7 +83,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Serviços
+    subtitle: Descubra quais servos temos disponíveis
     title: Serviços
   - type: FeaturedPostsSection
     elementId: ''
