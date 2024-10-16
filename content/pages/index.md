@@ -6,9 +6,7 @@ sections:
   - elementId: ''
     colors: colors-b
     backgroundSize: full
-    title: >-
-      Sou Gabriel Freitas, Criador de conteúdo Digital e Desenvolvedor de
-      Sistemas
+    title: ''
     subtitle: >-
       Sua empresa precisa ter uma boa possíção na internet e ser vista em
       qualquer rede.
