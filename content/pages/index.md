@@ -84,6 +84,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Serviços
+    title: Serviços
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
