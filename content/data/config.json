@@ -47,7 +47,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/default.png",
+            "url": "/images/profile.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
